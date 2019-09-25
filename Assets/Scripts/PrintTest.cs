@@ -7,7 +7,7 @@ public class PrintTest : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("TEST!!!!!");
+        Debug.LogWarning("TEST!!!!!");
     }
 
     // Update is called once per frame
